@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LevelOneApp</string>
+    <string name="add_con_1st">add contact</string>
+    <string name="EdTxt1_2nd">insert name</string>
+</resources>
